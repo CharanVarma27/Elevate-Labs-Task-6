@@ -1,4 +1,4 @@
-# Elevate Labs - Task 6: K-Nearest Neighbors (KNN) Classification 🌺
+# Elevate Labs - Task 6: K-Nearest Neighbors (KNN) Classification 
 
 ### **Objective**
 The goal of this task was to understand, implement, and correctly tune the **K-Nearest Neighbors (KNN)** classification algorithm. This project used the classic Iris dataset to classify flower species.
